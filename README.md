@@ -14,7 +14,7 @@
  
  🔭 I’m currently working on **a YouTube FactChecker**
  
- 🌱 I’m currently learning **Pytorch and  Go**
+ 🌱 I’m currently learning **Pytorch and  C++**
 
  </div>
  
